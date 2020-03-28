@@ -14,7 +14,7 @@ _Este proyecto tiene como objetivo trabajar con un proceso de autenticación por
 _Este proyecto fue realizado gracias a la tutoria de [Fernando Herrera](https://github.com/Klerith), instructor de Udemy._
 
 ---
-[Luis García](https://github.com/alejandrolgarcia/login-app)
+[Luis García](https://github.com/alejandrolgarcia)
 
 
 
