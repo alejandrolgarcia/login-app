@@ -1,8 +1,20 @@
 # LoginApp
 
-Cascaron de un login que usaremos en la sección 10 de mi curso de Angular de cero a experto.
+_Este proyecto tiene como objetivo trabajar con un proceso de autenticación por token tradicional.
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
+## Conocimientos aplicados
+
+* Tokens
+* Validar formularios
+* LocalStorage
+* Borrar tokens del localStorage
+* Creacion de usuarios
+* Firebase REST API
+
+_Este proyecto fue realizado gracias a la tutoria de [Fernando Herrera](https://github.com/Klerith), instructor de Udemy.
+
+---
+[Luis García](https://github.com/alejandrolgarcia/login-app)
 
 
-![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
+
