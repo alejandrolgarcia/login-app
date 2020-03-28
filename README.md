@@ -1,6 +1,6 @@
 # LoginApp
 
-_Este proyecto tiene como objetivo trabajar con un proceso de autenticación por token tradicional.
+_Este proyecto tiene como objetivo trabajar con un proceso de autenticación por token tradicional._
 
 ## Conocimientos aplicados
 
@@ -11,7 +11,7 @@ _Este proyecto tiene como objetivo trabajar con un proceso de autenticación por
 * Creacion de usuarios
 * Firebase REST API
 
-_Este proyecto fue realizado gracias a la tutoria de [Fernando Herrera](https://github.com/Klerith), instructor de Udemy.
+_Este proyecto fue realizado gracias a la tutoria de [Fernando Herrera](https://github.com/Klerith), instructor de Udemy._
 
 ---
 [Luis García](https://github.com/alejandrolgarcia/login-app)
